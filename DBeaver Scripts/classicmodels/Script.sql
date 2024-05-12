@@ -1,0 +1,6 @@
+CREATE TABLE Employee(
+
+SSN SERIAL PRIMARY KEY,
+
+
+)
