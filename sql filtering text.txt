@@ -1,0 +1,13 @@
+Like
+% matches all text
+_ matches fix lenght
+
+Not Like
+% matches all text
+_ matches fix lenght
+
+
+In
+
+
+summarzing data
