@@ -1,0 +1,1 @@
+create database advanced_tutorial;
